@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"log"
-	"github.com/douglasmakey/oauth2-example/handlers"
+	"github.com/checkking/oauth2_practice/third-service/handlers"
 )
 
 func main() {
